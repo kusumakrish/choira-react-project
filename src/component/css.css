@@ -1,0 +1,99 @@
+.dropdown{
+    display: inline-block;
+    position: relative;
+    bottom: 60px;
+    left: 1200px ;
+    padding: 14px;
+    background-color: black;
+    color: white;
+    border-color: blue;
+}
+table{
+    display: inline-block;
+     border: 1px solid white;
+     color: white;
+}
+td{
+    padding: 20px;
+    border-left: 1px solid lightblue;
+    text-align: center;
+}
+table{
+    border-radius: 30px;
+}
+.footer{
+    margin-left: 120px;
+    margin-top: 600px;
+}
+.endjam{
+    display: inline-block;
+    margin-left: 200px;
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 30px;
+    color: white;
+}
+.component1{
+width: 1218px;
+height: 630px;
+position: absolute;
+left: 111px;
+top: 119px;
+border-radius: 20px;
+}
+.component2{
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    width: 1218px;
+    height: 540px;
+    position: absolute;
+    left: 111px;
+    top: 119px;
+    border-radius: 20px;
+}
+.component3{
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    width: 1218px;
+    height: 630px;
+    position: absolute;
+    left: 111px;
+    top: 119px;
+    border-radius: 20px;
+}
+.comp3{
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.set{
+    padding: 20px;
+    border: 1px solid blue;
+    color: white;
+    position: relative;
+    bottom: 20px;
+    left: 120px;
+    margin-left: 10px;
+}
+.friday{
+    position: relative;
+    bottom: 64px;
+}
+.ved{
+    padding: 10px;
+    border-left: 1px solid yellow;
+    color: yellow;
+    position: relative;
+    top: 30px;
+    right: 140px;
+    margin-left: 10px;
+}
+.three{
+    padding: 10px;
+    color: white;
+    position: relative;
+    top: 80px;
+    right: 186px;
+    margin-left: 10px;
+}
